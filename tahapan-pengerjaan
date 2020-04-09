@@ -1,0 +1,11 @@
+Tahap pengerjaan website njs:
+- Membuat Template/Front-end website njs, mengacu pada website https://www.tesla.com/
+- Membuat Backend website njs
+- Website njs nantinya memiliki fitur:
+  -> Pendaftaran user (untuk keperluan branding, misal: subscribe newsletter)
+  -> Mendata Jumlah pengunjung website setiap hari
+  -> Mendata dan Mengenali berapa user (registered dan non register) yang sedang mengkases website (online)
+  -> Mendata dan Mengetahui jumlah registered user yang sedang online
+  -> Mendata dan Mengetahui darimana lokasi pengunjung website (geo-ip)
+  -> Mendata dan Merekam topic/post/halaman website yang diakses oleh masing-masing user
+  -> 
